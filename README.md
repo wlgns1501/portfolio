@@ -2,18 +2,18 @@
 
 Node.js 신입 백엔드 개발자 유지훈 입니다.
 
-## 📌 Intro
+## Intro
 
 * 사람들의 실생활에서 도움을 주고 싶은 서비스를 만들고 싶습니다.
 * 팀 스포츠를 즐겨 협력과 소통의 중요성을 인지 하고 있습니다.
 
-## 📌 Contact
+## Contact
 
 - Email : wlgns1501@gmail.com
 - Blog : [https://wlgns1501.gihub.io](https://wlgns1501.github.io/)
 - Github : https://github.com/wlgns1501
 
-## 📌 Stack
+## Stack
 
 **[ 프로그래밍 언어 ]**  Javascript, HTML, CSS
 
